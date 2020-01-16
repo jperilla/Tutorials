@@ -1,5 +1,5 @@
 # Dependency Injection with flask-injector
-The tutorial for this code can be found at: 
+The tutorial for this code can be found at: https://medium.com/@geekgirl907/python-dependency-injection-with-flask-injector-50773d451a32
 
 ## Quick Start Guide
 ```.env
