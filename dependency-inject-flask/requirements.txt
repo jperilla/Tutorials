@@ -3,7 +3,7 @@ Flask==1.1.1
 Flask-Injector==0.12.1
 injector==0.18.2
 itsdangerous==1.1.0
-Jinja2==2.10.3
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 typing-extensions==3.7.4.1
 Werkzeug==0.16.0
